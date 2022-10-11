@@ -1,4 +1,13 @@
+# WordPress Stuff
 themes
 uploads
-index.php
+
+# Plugins
 plugins/index.php
+
+# Node Modules
+node_modules
+
+# Files
+index.php
+debug.log

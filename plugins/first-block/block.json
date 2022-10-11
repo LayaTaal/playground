@@ -1,0 +1,18 @@
+{
+  "apiVersion": 2,
+  "name": "jasonzinn/first-block",
+  "title": "My First Block",
+  "description": "My first block",
+  "version": "1.0.0",
+  "category": "text",
+  "attributes": {
+    "numberOfPosts": {
+      "type": "number",
+      "default": "3"
+    }
+  },
+  "supports": {
+
+  },
+  "editorScript": "file:./build/index.js"
+}
